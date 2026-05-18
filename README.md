@@ -1,6 +1,3 @@
-Google Colab Workspace Link: https://colab.research.google.com/drive/1ZlFkiwPTS86aG88_BDIJMyEbPRoJKj_8?usp=sharing
-
-Video Demo URL: https://drive.google.com/file/d/1eLD8kkhLbdsxpp_NbeRkT3Kh_VCg2z32/view?usp=drivesdk
 
 🏋️ AI Fitness Coach
 A lightweight, full-stack AI Fitness application that generates personalized workout and nutrition plans based on user input. It features a Tailwind CSS interface, a Flask backend, and built-in Text-to-Speech (TTS) capabilities so users can listen to their plans.
