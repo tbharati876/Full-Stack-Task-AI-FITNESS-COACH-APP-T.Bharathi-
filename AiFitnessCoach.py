@@ -6,7 +6,7 @@ from flask_cors import CORS
 from pyngrok import ngrok
 import threading
 
-NGROK_TOKEN = "36mSHpSl4DWk4VZO6zTudKO3Piz_2ReYvKNYAz8zPKgUJRMxH" 
+NGROK_TOKEN = "PASTE_NGROK_TOKEN_HERE" 
 
 app = Flask(__name__)
 CORS(app)
